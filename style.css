@@ -252,11 +252,11 @@ hr {
     }
 }
 
-@media  (max-width:425px) {
+@media  (max-width:425px) (min-width:375px){
 
     .body-2 {
         background-color: white;
-        width: 375px;
+        width: 425px;
         margin: 0;
         border-radius:0;
     }
