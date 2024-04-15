@@ -201,13 +201,13 @@ hr {
 
     .body-2 {
         background-color: white;
-        width: 375px;
+        width: 100%;
         margin: 0;
         border-radius:0;
     }
 
     img {
-        width: 375px;
+        width: 100%;
         position: relative;
         top: 0;
         left: 0;
@@ -215,8 +215,8 @@ hr {
     }
 
     .first {
-    width: 340px;
-    padding-left: 15px;
+    width: 90%;
+    padding-left: 5%;
     text-align: justify;
     padding-bottom: 2rem;
     }
@@ -231,24 +231,24 @@ hr {
     }
 
     hr {
-        width: 340px;
-        margin-left: 20px;
+        width: 80%;
+        margin-left: 10%;
         margin-bottom: 20px;
     }
     
     .third {
         
-        width: 360px;
+        width: 100%;
     }
 
     .fourth {
-        width: 360px;
+        width: 80%;
     }
 
     .fifth {
-        width: 340px;
+        width: 80%;
         padding-left: 0;
-        margin-left: 20px;
+        margin-left: 10%;
     }
 }
 
